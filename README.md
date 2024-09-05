@@ -1,1 +1,1 @@
-Scholl 42 project
+School 42 project
